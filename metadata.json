@@ -1,0 +1,6 @@
+{
+  "name": "Subway Run - Infinite 3-Lane Track Runner",
+  "description": "An action-packed 3-lane infinite runner game inspired by Subway Surfers with jump, roll, trains, barriers, coins, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
